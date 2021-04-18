@@ -14,3 +14,5 @@ pip install Ipython
 pip install ipywidgets
 
 Use command voila COVID.ipynb
+
+http://localhost:8866/
